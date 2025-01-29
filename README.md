@@ -1,0 +1,1 @@
+Este repositorio apresenta alguns dos meus notebooks que escrevi durante os cursos da Alura. A maiora, se não todos, é voltada para a Ciência de Dados. Neles você pode ver os gráficos e tratamentos de dados realizados, além de meus comentários e exercícios que realizei.
